@@ -1,5 +1,7 @@
 # Identification of Latent Topics in Patients Surviving COVID-19 in Mexico
 
-Este proyecto está relacionado con un artículo que está aceptado. El código estará disponible después de la publicación.
+Código relacionado al artículo "Identification of Latent Topics in Patients Surviving COVID-19 in Mexico".
 
-prueba
+El archivo RUN.m contiene el código principal de la ejecución de LDA (Desarrollo en MATLAB).
+El directorio "codes", contiene códigos usados en RUN.m, estos son empleados para cargar el conjunto de datos y convertirlo a una bolsa de palabras.
+
